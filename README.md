@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
