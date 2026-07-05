@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
