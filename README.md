@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [0189-rotate-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0027-remove-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
