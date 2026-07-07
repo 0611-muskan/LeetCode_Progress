@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0189-rotate-array) |
+| [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
