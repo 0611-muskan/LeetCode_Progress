@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0485-max-consecutive-ones) |
 | [0136-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0136-single-number) |
+| [0033-search-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
