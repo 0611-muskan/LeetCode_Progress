@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0485-max-consecutive-ones) |
 | [0136-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0136-single-number) |
 | [0033-search-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
