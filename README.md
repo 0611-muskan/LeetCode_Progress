@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0136-single-number) |
 | [0033-search-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -75,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
