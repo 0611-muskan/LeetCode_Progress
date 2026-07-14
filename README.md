@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0229-majority-element-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0229-majority-element-ii) |
 | [0015-3sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0015-3sum) |
+| [0152-maximum-product-subarray](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
