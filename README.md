@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0189-rotate-array) |
 | [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
 | [0007-reverse-integer](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0015-3sum) |
 | [0152-maximum-product-subarray](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0152-maximum-product-subarray) |
 | [0088-merge-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0088-merge-sorted-array) |
+| [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
+| [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
