@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0152-maximum-product-subarray) |
 | [0088-merge-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0088-merge-sorted-array) |
 | [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [0054-spiral-matrix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0054-spiral-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
