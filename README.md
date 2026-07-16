@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0145-binary-tree-postorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -157,14 +158,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0145-binary-tree-postorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0145-binary-tree-postorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0145-binary-tree-postorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
