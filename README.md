@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
 | [0007-reverse-integer](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
+| [0009-palindrome-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
