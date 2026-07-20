@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0100-same-tree) |
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0100-same-tree) |
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
