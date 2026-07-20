@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0322-coin-change) |
 | [0198-house-robber](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0198-house-robber) |
 | [0055-jump-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0226-invert-binary-tree) |
 | [0100-same-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0100-same-tree) |
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0226-invert-binary-tree) |
 | [0100-same-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0100-same-tree) |
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0100-same-tree) |
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
