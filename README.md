@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0058-length-of-last-word) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0322-coin-change) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -246,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
