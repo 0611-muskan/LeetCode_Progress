@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
+| [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
