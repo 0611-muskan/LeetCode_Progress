@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0058-length-of-last-word) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0055-jump-game) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0073-set-matrix-zeroes) |
 | [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
