@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0020-valid-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0020-valid-parentheses) |
+| [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0088-merge-sorted-array) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0011-container-with-most-water](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0011-container-with-most-water) |
+| [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0198-house-robber) |
 | [0055-jump-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
