@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0011-container-with-most-water) |
 | [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0647-palindromic-substrings) |
+| [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0020-valid-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 ## Depth-First Search
 |  |
 | ------- |
