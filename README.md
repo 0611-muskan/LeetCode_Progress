@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0647-palindromic-substrings) |
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
