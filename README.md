@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0136-single-number) |
+| [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -305,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
+| [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
