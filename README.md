@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
 | [0057-insert-interval](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0057-insert-interval) |
+| [0056-merge-intervals](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
