@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
 | [0057-insert-interval](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0057-insert-interval) |
 | [0056-merge-intervals](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0056-merge-intervals) |
+| [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0210-course-schedule-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
 ## String Matching
 |  |
 | ------- |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0210-course-schedule-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
