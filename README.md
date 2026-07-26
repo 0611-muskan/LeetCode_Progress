@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,10 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0322-coin-change) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 ## String Matching
 |  |
 | ------- |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 | [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
