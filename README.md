@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0056-merge-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
