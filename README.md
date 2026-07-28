@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
 | [0162-find-peak-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0136-single-number) |
 | [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
