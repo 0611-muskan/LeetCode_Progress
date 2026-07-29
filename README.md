@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0056-merge-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -367,8 +372,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
