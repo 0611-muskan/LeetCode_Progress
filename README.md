@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0020-valid-parentheses) |
 | [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0647-palindromic-substrings) |
+| [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0647-palindromic-substrings) |
 | [0518-coin-change-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0518-coin-change-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0300-longest-increasing-subsequence) |
+| [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -382,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
