@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0647-palindromic-substrings) |
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
+| [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0020-valid-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |
