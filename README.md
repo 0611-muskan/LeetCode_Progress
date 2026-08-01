@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0048-rotate-image) |
 | [0009-palindrome-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 | [0090-subsets-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0090-subsets-ii) |
+| [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0518-coin-change-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0300-longest-increasing-subsequence) |
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
+| [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -397,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
