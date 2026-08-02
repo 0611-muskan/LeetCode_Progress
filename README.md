@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
 | [0014-longest-common-prefix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0572-subtree-of-another-tree) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Function
 |  |
 | ------- |
