@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0014-longest-common-prefix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0035-search-insert-position) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0300-longest-increasing-subsequence) |
+| [0035-search-insert-position](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0035-search-insert-position) |
 ## Counting
 |  |
 | ------- |
