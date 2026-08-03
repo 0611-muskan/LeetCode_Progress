@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0014-longest-common-prefix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0035-search-insert-position) |
+| [0334-increasing-triplet-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0334-increasing-triplet-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0011-container-with-most-water](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0334-increasing-triplet-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
