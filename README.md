@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
+| [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0035-search-insert-position) |
 | [0334-increasing-triplet-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0334-increasing-triplet-subsequence) |
+| [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
