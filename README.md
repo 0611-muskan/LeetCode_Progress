@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
+| [0025-reverse-nodes-in-k-group](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0050-powx-n](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0050-powx-n) |
+| [0025-reverse-nodes-in-k-group](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0025-reverse-nodes-in-k-group) |
 ## Hash Table
 |  |
 | ------- |
