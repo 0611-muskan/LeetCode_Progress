@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0050-powx-n](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0050-powx-n) |
+| [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0035-search-insert-position) |
 | [0334-increasing-triplet-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0334-increasing-triplet-subsequence) |
 | [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
+| [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0131-palindrome-partitioning](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0131-palindrome-partitioning) |
+| [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -425,8 +428,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0334-increasing-triplet-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
