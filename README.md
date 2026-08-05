@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0210-course-schedule-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1584-min-cost-to-connect-all-points) |
+| [3310-remove-methods-from-project](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
