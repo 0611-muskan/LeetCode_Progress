@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0131-palindrome-partitioning) |
+| [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
+| [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
