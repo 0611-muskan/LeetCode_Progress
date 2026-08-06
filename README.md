@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0050-powx-n](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -451,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
