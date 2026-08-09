@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+| [0029-divide-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [0090-subsets-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0090-subsets-ii) |
+| [0029-divide-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0029-divide-two-integers) |
 ## Memoization
 |  |
 | ------- |
