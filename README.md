@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
 | [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
+| [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -462,4 +465,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
