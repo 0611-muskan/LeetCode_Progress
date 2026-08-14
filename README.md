@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0131-palindrome-partitioning) |
 | [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
