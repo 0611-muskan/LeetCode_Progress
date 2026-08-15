@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0141-linked-list-cycle) |
 | [0025-reverse-nodes-in-k-group](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
 | [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
+| [0061-rotate-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
