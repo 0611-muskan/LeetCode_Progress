@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [0029-divide-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [0054-spiral-matrix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0054-spiral-matrix) |
+| [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 ## Prefix Sum
 |  |
 | ------- |
