@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [0875-koko-eating-bananas](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0875-koko-eating-bananas) |
+| [1207-unique-number-of-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1207-unique-number-of-occurrences) |
 ## Matrix
 |  |
 | ------- |
