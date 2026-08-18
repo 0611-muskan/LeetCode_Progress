@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
