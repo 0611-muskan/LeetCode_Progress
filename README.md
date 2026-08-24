@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [0066-plus-one](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0486-predict-the-winner) |
 | [0131-palindrome-partitioning](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
+| [0119-pascals-triangle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
