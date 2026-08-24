@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0457-circular-array-loop) |
 | [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
 | [0061-rotate-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0061-rotate-list) |
+| [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0877-stone-game) |
 | [0119-pascals-triangle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
