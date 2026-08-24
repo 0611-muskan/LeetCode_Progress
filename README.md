@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [0066-plus-one](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1207-unique-number-of-occurrences) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [0066-plus-one](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
