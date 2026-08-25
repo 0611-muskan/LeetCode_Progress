@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [0066-plus-one](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
+| [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0287-find-the-duplicate-number) |
 | [0090-subsets-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0090-subsets-ii) |
 | [0029-divide-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 ## Memoization
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0054-spiral-matrix) |
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 ## Prefix Sum
 |  |
 | ------- |
