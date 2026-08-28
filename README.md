@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1207-unique-number-of-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
+| [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0611-muskan/LeetCode_Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
+| [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
