@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0050-powx-n) |
 | [0025-reverse-nodes-in-k-group](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0203-remove-linked-list-elements) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 | [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
