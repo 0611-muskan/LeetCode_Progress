@@ -542,4 +542,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0620-not-boring-movies) |
+| [0595-big-countries](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
