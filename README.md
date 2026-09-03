@@ -544,4 +544,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0620-not-boring-movies) |
 | [0595-big-countries](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0619-biggest-single-number) |
+| [1251-average-selling-price](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
