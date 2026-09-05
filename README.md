@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0371-sum-of-two-integers) |
 | [0338-counting-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0338-counting-bits) |
+| [0190-reverse-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
 | ------- |
