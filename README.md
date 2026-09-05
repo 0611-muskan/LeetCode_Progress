@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0371-sum-of-two-integers) |
+| [0338-counting-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
