@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1207-unique-number-of-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0119-pascals-triangle-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0125-valid-palindrome) |
 | [0061-rotate-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0300-longest-increasing-subsequence) |
 | [0035-search-insert-position](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0035-search-insert-position) |
 | [0875-koko-eating-bananas](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0875-koko-eating-bananas) |
+| [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
