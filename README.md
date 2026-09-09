@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0064-minimum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
+| [0064-minimum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0338-counting-bits) |
+| [0064-minimum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0064-minimum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
