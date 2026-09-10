@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0112-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0417-pacific-atlantic-water-flow) |
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3310-remove-methods-from-project) |
+| [0112-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3310-remove-methods-from-project) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0112-path-sum) |
 ## Graph Theory
 |  |
 | ------- |
