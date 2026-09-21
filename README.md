@@ -573,4 +573,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0619-biggest-single-number) |
 | [1251-average-selling-price](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1251-average-selling-price) |
 | [1757-recyclable-and-low-fat-products](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1757-recyclable-and-low-fat-products) |
+| [0177-nth-highest-salary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
