@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0203-remove-linked-list-elements) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0147-insertion-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0392-is-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0190-reverse-bits) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3731-find-missing-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0147-insertion-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -576,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1251-average-selling-price) |
 | [1757-recyclable-and-low-fat-products](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1757-recyclable-and-low-fat-products) |
 | [0177-nth-highest-salary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0177-nth-highest-salary) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
