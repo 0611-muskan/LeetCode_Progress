@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0627-swap-sex-of-employees) |
+| [0626-exchange-seats](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0626-exchange-seats) |
 ## Merge Sort
 |  |
 | ------- |
