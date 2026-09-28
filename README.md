@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [0225-implement-stack-using-queues](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0225-implement-stack-using-queues) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0225-implement-stack-using-queues](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0225-implement-stack-using-queues) |
 ## Backtracking
 |  |
 | ------- |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0225-implement-stack-using-queues](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Queue
 |  |
 | ------- |
