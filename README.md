@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [0219-contains-duplicate-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0064-minimum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0496-next-greater-element-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0225-implement-stack-using-queues](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -598,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
