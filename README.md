@@ -605,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0496-next-greater-element-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
