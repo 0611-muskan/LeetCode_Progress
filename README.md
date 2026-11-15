@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0496-next-greater-element-i) |
 | [0039-combination-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0040-combination-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0131-palindrome-partitioning) |
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0040-combination-sum-ii) |
 ## Topological Sort
 |  |
 | ------- |
