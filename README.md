@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0371-sum-of-two-integers) |
 | [3870-count-commas-in-range](https://github.com/0611-muskan/LeetCode_Progress/tree/master/3870-count-commas-in-range) |
+| [0241-different-ways-to-add-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0203-remove-linked-list-elements) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0067-add-binary) |
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/0611-muskan/LeetCode_Progress/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0338-counting-bits) |
 | [0064-minimum-path-sum](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0064-minimum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -585,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/0611-muskan/LeetCode_Progress/tree/master/0241-different-ways-to-add-parentheses) |
 ## Database
 |  |
 | ------- |
